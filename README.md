@@ -3,12 +3,10 @@
 </div>
           
 ## Developer Since 2020
-## Hi there 👋
 
-My name is Gabriel Ribeiro Mendonca, I'm a passionate developer keen on bringing innovation using technology.
+
 
 ## 🛠 Skills and Tools
-Here are some of the languages, tools, and technologies I've worked with:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50px" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" width="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40px" width="40px" />
@@ -23,20 +21,14 @@ Here are some of the languages, tools, and technologies I've worked with:
 
           
 ## 🎯 Currently Focusing On
-Currently into:
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50px" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50px" width="50px"/>
-
-          
 
 I'm studying ML, LLM, AI.
 
-## 🌐 Find me on the web
-I love connecting with other developers and tech enthusiasts. Feel free to get in touch with me at:
 
 LinkedIn: [Gabriel Ribeiro Mendonca](https://www.linkedin.com/in/gabriel-ribeiro-mendon%C3%A7a-910692269/)
 Twitter: [@GabrielRMendon1](https://twitter.com/GabrielRMendon1)
 Email: [garimeipod@gmail.com](mailto:garimeipod@gmail.com)
-Thanks for visiting!
+## Thanks for visiting!
 ![Snake animation](https://github.com/GabrielMendonca1/GabrielMendonca1/blob/output/github-contribution-grid-snake.svg)
 

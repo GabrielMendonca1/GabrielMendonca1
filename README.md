@@ -1,7 +1,7 @@
           
 ## Developer Since 2020
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielMendonca1&show_icons=true&theme=dark"/> <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMendonca1&layout=compact&langs_count=7&theme=dark"/>
-![Snake animation](https://github.com/GabrielMendonca1/GabrielMendonca1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GabrielMendonca1/GabrielMendonca1/blob/output/github-contribution-grid-snake-dark.svg)
 ## 🛠 Skills and Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50px" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" width="40px"/>
@@ -18,11 +18,7 @@
           
 ## 🎯 Currently Focusing On
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50px" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50px" width="50px"/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 I'm studying ML, LLM, AI.
 
 

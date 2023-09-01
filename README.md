@@ -1,5 +1,10 @@
           
 ## Developer Since 2020
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielMendonca1&show_icons=true&theme=dark"/> <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMendonca1&layout=compact&langs_count=7&theme=dark"/>
 ![Snake animation](https://github.com/GabrielMendonca1/GabrielMendonca1/blob/output/github-contribution-grid-snake.svg)
 ## 🛠 Skills and Tools

@@ -1,7 +1,7 @@
           
 ## Developer Since 2020
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMendonca1&layout=compact&langs_count=7&theme=dark"/>
-![Snake animation](https://github.com/GabrielMendonca1/GabrielMendonca1/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/GabrielMendonca1/GabrielMendonca1/blob/output/github-contribution-grid-snake-dark.gif)
 
 ## 🛠 Skills and Tools
 

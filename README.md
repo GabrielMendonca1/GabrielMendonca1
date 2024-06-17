@@ -1,18 +1,18 @@
           
-# Codando desde 2020
 
 ![Snake animation](https://github.com/GabrielMendonca1/GabrielMendonca1/blob/output/github-contribution-grid-snake-dark.svg)
 
+### Since 2020
 
-## Tenho especialidade tanto com front e back, atualmnete focado em IA e ML.
+## Tenho especialidade tanto com front e back, atualmentte focado em IA e ML.
    
-## Entre em contaro
+## Entre em contato
 
-LinkedIn: [Gabriel Ribeiro Mendonca](https://www.linkedin.com/in/gabriel-ribeiro-mendon%C3%A7a-910692269/)
+Linkedin: [Gabriel Ribeiro Mendonca](https://www.linkedin.com/in/gabriel-ribeiro-mendon%C3%A7a-910692269/)
 
-Twitter: [@GabrielRMendon1](https://twitter.com/GabrielRMendon1)
+Twitter: [@gabrielrm_333](https://x.com/gabrielrm_333)
 
-Email: [garimeipod@gmail.com](mailto:garimeipod@gmail.com)
+Email: [gabrielrm.email@gmail.com](mailto:gabrielrm.email@gmail.com)
 
 ## Obrigado pela visita
 

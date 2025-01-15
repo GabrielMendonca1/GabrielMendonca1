@@ -4,7 +4,7 @@
 
 ### Since 2020
 
-## Tenho especialidade tanto com front e back, atualmentte focado em IA e ML.
+## Tenho especialidade tanto com front e back, atualmente focado em IA e ML.
    
 ## Entre em contato
 

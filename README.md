@@ -1,19 +1,16 @@
           
 
-![Snake animation](https://github.com/GabrielMendonca1/GabrielMendonca1/blob/output/github-contribution-grid-snake-dark.svg)
+![graph](https://github.com/GabrielMendonca1/GabrielMendonca1/blob/output/github-contribution-grid-snake-dark.svg)
 
-### Since 2020
+### Since 2019
 
-## Software Engineer, atualmente focado em IA e ML.
+## Software & AI Engineer.
    
 ## Entre em contato
 
-Linkedin: [Gabriel Ribeiro Mendonca](https://www.linkedin.com/in/gabriel-ribeiro-mendon%C3%A7a-910692269/)
+[Linkedin](https://www.linkedin.com/in/gabriel-ribeiro-mendon%C3%A7a-910692269/)
+[X](https://x.com/gabrielrm_333)
+[Email](mailto:gabrielrm.email@gmail.com)
 
-Twitter: [@gabrielrm_333](https://x.com/gabrielrm_333)
-
-Email: [gabrielrm.email@gmail.com](mailto:gabrielrm.email@gmail.com)
-
-## Obrigado pela visita
 
 

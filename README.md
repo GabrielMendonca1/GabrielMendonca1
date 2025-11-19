@@ -9,7 +9,9 @@
 ## Entre em contato
 
 [Linkedin](https://www.linkedin.com/in/gabriel-ribeiro-mendon%C3%A7a-910692269/)
+
 [X](https://x.com/gabrielrm_333)
+
 [Email](mailto:gabrielrm.email@gmail.com)
 
 
